@@ -8,5 +8,7 @@
   "articleFigureCount": 6,
   "gptToolbarVisible": false,
   "heatmapNameAxis": "explicit title reserves a 20px minimum inner left margin for three Chinese characters",
-  "buildMode": "source"
+  "buildMode": "source",
+  "htmlSha256": "9506be0dfc68a6dc518392baf2054054751dc2c86398f1bf7ca29369d741b643",
+  "legendEndpointsNoWrap": true
 }
